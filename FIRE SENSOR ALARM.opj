@@ -1,0 +1,37 @@
+(ExpressProject "FIRE SENSOR ALARM"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\fire sensor alarm.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\01-01-2023\03-01-2023\fire sensor alarm.dsn")
+      (Path "Design Resources" "D:\01-01-2023\03-01-2023\fire sensor alarm.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "D:\01-01-2023\03-01-2023\fire sensor alarm.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 395"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1212 50 479")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\01-01-2023\03-01-2023\FIRE SENSOR ALARM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
